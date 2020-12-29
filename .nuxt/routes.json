@@ -1,0 +1,16 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/macbook/Documents/Academy/stepik_t/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_23908bc2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/macbook/Documents/Academy/stepik_t/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0def94e4"
+  }
+]
